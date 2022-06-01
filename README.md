@@ -1,1 +1,1 @@
-# ex-resume
+# resume
